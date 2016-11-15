@@ -1,0 +1,7 @@
+Django==1.10.2
+django-filter==0.15.3
+djangorestframework==3.5.1
+Markdown==2.6.7
+py==1.4.31
+pytest==3.0.3
+pytest-django==3.0.0
